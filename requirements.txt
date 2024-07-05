@@ -1,0 +1,10 @@
+You should install these libraries first 
+
+1. pynput
+2. smtplib
+3. ssl
+
+# Write this command as well
+pip install pynput
+
+
